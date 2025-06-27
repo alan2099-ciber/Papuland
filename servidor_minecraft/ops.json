@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "690e2115-c513-380b-b061-413c46de03be",
+    "name": "AlanJCR",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6712a78c-e121-359e-b900-2eff7e969a1b",
+    "name": "alanjcrf",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7bc20cc8-faf1-3cc1-9aee-b942a5c534fd",
+    "name": "Doglav",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
